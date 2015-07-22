@@ -30,6 +30,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Bootstrap
 gem 'bootstrap-sass'
 
+# Sass Autoprefixer
+gem 'autoprefixer-rails'
+
 # Redactor
 gem 'redactor-rails'
 
