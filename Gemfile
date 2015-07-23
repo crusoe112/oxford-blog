@@ -51,6 +51,9 @@ gem 'devise'
 # CanCan
 gem "cancan"
 
+# jQuery UI
+gem "jquery-ui-rails"
+
 ###############
 
 # Use ActiveModel has_secure_password
